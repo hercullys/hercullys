@@ -12,9 +12,9 @@
 <br>
 
 <div>
-  <a href="https://github.com/seu-nome-de-usuario?tab=repositories">
-    <img width="auto" height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs" />
-    <img width="auto" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=github_dark" />
+  <a href="https://github.com/hercullys?tab=repositories">
+    <img width="auto" height="150em" src="https://github-readme-stats.vercel.app/api?username=hercullys&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs" />
+    <img width="auto" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hercullys&layout=compact&theme=github_dark" />
   </a>
 </div>
 
