@@ -5,7 +5,7 @@
   <li>🔭 Atualmente estou procurando trabalho como Desenvolvedor</li>
   <li>📚 Focado em aprender <a href="https://www.python.org/dev/" target="_blank">Python</a>, <a href="https://aws.amazon.com/" target="_blank">Cloud Services AWS</a> e <a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
   <li>🌎 Moro em <a href="https://goo.gl/maps/cuAd2Tj6oPMMce7QA" target="_blank">Guanambi/BA</a></li>
-  <li>👨‍🎓 Atualmente estudando na <a href="https://www.linkedin.com/school/descomplicafaculdade/" target="_blank">Descomplica Faculdade Digital 🎓</a></li>
+  <li>👨‍🎓 Atualmente estudando Engenharia de Software na <a href="https://www.linkedin.com/school/descomplicafaculdade/" target="_blank">Descomplica Faculdade Digital 🎓</a></li>
   <li>💬 Qualquer ajuda ou dica é sempre bem-vinda!</li>
 </ul>
 
