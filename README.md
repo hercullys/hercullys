@@ -23,7 +23,7 @@
 <h3 align="left">Linguagens e Ferramentas: <img src="https://i.pinimg.com/originals/5d/83/69/5d8369d65e9b8b2987122aac9d5a1e9f.gif" width="30"></h3>
 <p align="left">
   <a href="https://www.python.org/dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40" />
+    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   </a>
   <!-- Adicione outras linguagens e ferramentas aqui -->
 </p>
