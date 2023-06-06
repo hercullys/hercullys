@@ -2,8 +2,8 @@
 
 <p>Sobre mim:</p>
 <ul>
-  <li>🔭 Atualmente estou procurando trabalho como Desenvolvedor <a href="https://www.linkedin.com/company/sua-empresa/" target="_blank">Sua Empresa</a></li>
-  <li>📚 Focado em aprender <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>, <a href="https://react.dev/" target="_blank">React.js</a> e <a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
+  <li>🔭 Atualmente estou procurando trabalho como Desenvolvedor</li>
+  <li>📚 Focado em aprender <a href="https://www.python.org/dev/" target="_blank">Python</a>, <a href="https://aws.amazon.com/" target="_blank">Cloud Services AWS</a> e <a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
   <li>🌎 Moro em <a href="https://goo.gl/maps/cuAd2Tj6oPMMce7QA" target="_blank">Guanambi/BA</a></li>
   <li>👨‍🎓 Atualmente estudando na <a href="https://www.linkedin.com/school/descomplicafaculdade/" target="_blank">Descomplica Faculdade Digital 🎓</a></li>
   <li>💬 Qualquer ajuda ou dica é sempre bem-vinda!</li>
@@ -23,7 +23,7 @@
 <h3 align="left">Linguagens e Ferramentas: <img src="https://i.pinimg.com/originals/5d/83/69/5d8369d65e9b8b2987122aac9d5a1e9f.gif" width="30"></h3>
 <p align="left">
   <a href="https://www.python.org/dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg](https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg)" alt="python" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40" />
   </a>
   <!-- Adicione outras linguagens e ferramentas aqui -->
 </p>
@@ -32,7 +32,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div>
-  <a href="https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/h%C3%A9rcullys-gomes-de-oliveira-971962271/" target="_blank">
+  <a href="https://www.linkedin.com/in/h%C3%A9rcullys-gomes-de-oliveira-971962271" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:hercullysgomes@gmail.com">
