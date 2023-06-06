@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou o Hércullys Gomes de Oliveira <img src="https://media.tenor.com/3ozFKoQcLeoAAAAi/btm-bare-tree.gif" width="60"></h1>
+<h1>👋 Olá, eu sou Hércullys Gomes de Oliveira <img src="https://media.tenor.com/3ozFKoQcLeoAAAAi/btm-bare-tree.gif" width="60"></h1>
 
 <p>Sobre mim:</p>
 <ul>
